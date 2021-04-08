@@ -1,7 +1,7 @@
 # Author: Conor Smith
 # Date: 4/6/2021
 # Description: Asks the user for five numbers and then prints out the average of those numbers.
-print("Enter Five Numbers.")
+print("Please enter five numbers.")
 num_1 = int(input())
 num_2 = int(input())
 num_3 = int(input())
